@@ -49,13 +49,6 @@ Through this project, I strengthened my skills in:
 - Business-focused data visualization
 - Extracting insights from sales data
 
-## Screenshot
-Add your dashboard screenshot here after uploading it to GitHub.
-
-Example:
-```md
-![Dashboard Preview](dashboard_screenshot.png)
-```
 
 ## How to Use
 1. Open the Excel dashboard file.
